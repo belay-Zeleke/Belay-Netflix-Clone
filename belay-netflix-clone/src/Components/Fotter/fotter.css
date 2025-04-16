@@ -1,0 +1,41 @@
+.Footer{
+    background-color: #111;
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
+.Footer__Container{
+width: 60%;
+
+}
+.Footer__Icons{
+    width: 12%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    color: white;
+}
+.Footer__Data {
+    display: flex;
+    justify-content: space-between;
+}
+.Footer__Data ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 12vh;
+}
+.Service__Code {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #fff 3px solid;
+    width: 16%;
+    margin: 30px 0;
+    cursor: pointer;
+}
+.Copy__Right{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
