@@ -1,5 +1,5 @@
-// var Api_Key = "ccc9c56a676a577d2e284609511076a4";
-var Api_Key = process.env.REACT_APP_API;
+var Api_Key = "ccc9c56a676a577d2e284609511076a4";
+
 
 var requests = {
 
